@@ -1,0 +1,9 @@
+.app { display: inline-block; width: 100%; padding: 40px; background-color: #95da95; }
+
+.app .contactForm input { height: 30px; text-align: center; margin: 0 10px; }
+
+.app .contactForm button { border: none; height: 30px; background-color: #5c5cc2; color: white; cursor: pointer; }
+
+.app .contactForm button:hover { background-color: rgba(92, 92, 194, 0.5); }
+
+.app .contactsList .contactItem { width: 50%; border: 1px solid black; padding: 20px; background-color: #5aaa5a; }
